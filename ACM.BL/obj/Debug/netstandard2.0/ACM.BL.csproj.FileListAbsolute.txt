@@ -1,0 +1,8 @@
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.deps.json
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.dll
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.pdb
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.csprojAssemblyReference.cache
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.AssemblyInfoInputs.cache
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.AssemblyInfo.cs
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.dll
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.pdb

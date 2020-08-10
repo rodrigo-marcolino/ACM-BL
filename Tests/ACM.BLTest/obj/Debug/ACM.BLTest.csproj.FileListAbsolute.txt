@@ -1,0 +1,15 @@
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\Tests\ACM.BLTest\bin\Debug\ACM.BLTest.dll
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\Tests\ACM.BLTest\bin\Debug\ACM.BLTest.pdb
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\Tests\ACM.BLTest\bin\Debug\ACM.BL.dll
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\Tests\ACM.BLTest\bin\Debug\ACM.BL.pdb
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.csprojAssemblyReference.cache
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.csproj.CopyComplete
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.dll
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.pdb
