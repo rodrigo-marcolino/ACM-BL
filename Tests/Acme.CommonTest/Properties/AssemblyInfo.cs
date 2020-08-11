@@ -2,18 +2,18 @@ using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("ACM.BLTest")]
+[assembly: AssemblyTitle("Acme.CommonTest")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ACM.BLTest")]
+[assembly: AssemblyProduct("Acme.CommonTest")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
 [assembly: ComVisible(false)]
 
-[assembly: Guid("8672fa7f-d955-4a53-bc5d-cb15fd6b4f3e")]
+[assembly: Guid("660f4e67-57c6-4d4d-a255-c3d96bd50301")]
 
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]

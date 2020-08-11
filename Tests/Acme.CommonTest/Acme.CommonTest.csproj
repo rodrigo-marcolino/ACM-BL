@@ -5,11 +5,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8672FA7F-D955-4A53-BC5D-CB15FD6B4F3E}</ProjectGuid>
+    <ProjectGuid>{660F4E67-57C6-4D4D-A255-C3D96BD50301}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ACM.BLTest</RootNamespace>
-    <AssemblyName>ACM.BLTest</AssemblyName>
+    <RootNamespace>Acme.CommonTest</RootNamespace>
+    <AssemblyName>Acme.CommonTest</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -49,19 +49,21 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CustomerTest.cs" />
+    <Compile Include="StringHandlerTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="CustomerRepositoryTest.cs" />
-    <Compile Include="ProductRepositoryTest.cs" />
-    <Compile Include="OrderRepositoryTest.cs" />
+    <Compile Include="LoggingServiceTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\ACM.BL\ACM.BL.csproj">
-      <Project>{9e83c133-325b-4f2e-a576-dbe94d1268bb}</Project>
+      <Project>{9E83C133-325B-4F2E-A576-DBE94D1268BB}</Project>
       <Name>ACM.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Acme.Common\Acme.Common.csproj">
+      <Project>{7509e8f9-6fed-4002-8f48-71b94afb0fe5}</Project>
+      <Name>Acme.Common</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

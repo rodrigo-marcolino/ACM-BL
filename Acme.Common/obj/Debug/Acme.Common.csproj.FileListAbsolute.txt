@@ -1,0 +1,5 @@
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\Acme.Common\bin\Debug\Acme.Common.dll
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\Acme.Common\bin\Debug\Acme.Common.pdb
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\Acme.Common\obj\Debug\Acme.Common.csprojAssemblyReference.cache
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\Acme.Common\obj\Debug\Acme.Common.dll
+Z:\Projects\Pluralsight\Object-Oriented Programming Fundamentals in C#\ACM\Acme.Common\obj\Debug\Acme.Common.pdb
